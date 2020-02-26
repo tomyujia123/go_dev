@@ -19,6 +19,16 @@ func reverse(str string) string {
 	return result
 }
 
+func reverse1(str string) string {
+	var result []byte
+	tmp := []byte(str)
+	length := len(str)
+	for i := 0; i < length; i++ {
+		result = append(result, tmp[length-i-1])
+	}
+	return string(result)
+}
+
 func main() {
 	for i := 0; i < 10; i++ {
 		a := rand.Int()
