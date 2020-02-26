@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="618d579b-684d-44fe-9cfe-160710feb504" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/day2/example8/main/main.go" afterDir="false" />
+    <list default="true" id="618d579b-684d-44fe-9cfe-160710feb504" name="默认更改列表" comment="commit second at 2020.2.7">
+      <change afterPath="$PROJECT_DIR$/day2/example12/main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/example14/main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/example9/main/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,25 +50,25 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Go Build.go build go_dev/day2/example8/main">
-    <configuration name="go build go_dev/day2/example2/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build go_dev/day2/example14/main">
+    <configuration name="go build go_dev/day2/example12/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_dev" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/day2/example2/main/main.go" />
-      <package value="go_dev/day2/example2/main" />
+      <filePath value="$PROJECT_DIR$/day2/example12/main/main.go" />
+      <package value="go_dev/day2/example12/main" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build go_dev/day2/example6/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build go_dev/day2/example14/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_dev" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/day2/example6/main/main.go" />
-      <package value="go_dev/day2/example6/main" />
+      <filePath value="$PROJECT_DIR$/day2/example14/main/main.go" />
+      <package value="go_dev/day2/example14/main" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -88,12 +90,22 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build go_dev/day2/example9/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_dev" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/day2/example9/main/main.go" />
+      <package value="go_dev/day2/example9/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build go_dev/day2/example14/main" />
+        <item itemvalue="Go Build.go build go_dev/day2/example12/main" />
+        <item itemvalue="Go Build.go build go_dev/day2/example9/main" />
         <item itemvalue="Go Build.go build go_dev/day2/example8/main" />
         <item itemvalue="Go Build.go build go_dev/day2/example7/main" />
-        <item itemvalue="Go Build.go build go_dev/day2/example6/main" />
-        <item itemvalue="Go Build.go build go_dev/day2/example2/main" />
       </list>
     </recent_temporary>
   </component>
@@ -118,57 +130,69 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit second at 2020.2.7" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#Notifications" timestamp="1580811708657">
+    <state x="361" y="71" key="#Notifications" timestamp="1582695679749">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1580811708657" />
-    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580965941925">
+    <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1582695679749" />
+    <state x="504" y="250" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1582692048969">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1580965941925" />
-    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1581068598553">
+    <state x="504" y="250" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1582692048969" />
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582691693200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581068598553" />
-    <state width="1493" height="189" key="GridCell.Tab.0.bottom" timestamp="1581069374824">
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1582691693200" />
+    <state x="361" y="75" key="#更新" timestamp="1582691408935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="189" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581069374824" />
-    <state width="1493" height="189" key="GridCell.Tab.0.center" timestamp="1581069374823">
+    <state x="361" y="75" key="#更新/0.0.1536.824@0.0.1536.824" timestamp="1582691408935" />
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1581069425716">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="189" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581069374823" />
-    <state width="1493" height="189" key="GridCell.Tab.0.left" timestamp="1581069374823">
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581069425716" />
+    <state x="549" y="157" key="FileChooserDialogImpl" timestamp="1582691249243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="189" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581069374823" />
-    <state width="1493" height="189" key="GridCell.Tab.0.right" timestamp="1581069374823">
+    <state x="549" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582691249243" />
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom" timestamp="1582710301780">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="189" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581069374823" />
-    <state width="1493" height="239" key="GridCell.Tab.1.bottom" timestamp="1581067955714">
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582710301780" />
+    <state width="1493" height="189" key="GridCell.Tab.0.center" timestamp="1582710301780">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="239" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581067955714" />
-    <state width="1493" height="239" key="GridCell.Tab.1.center" timestamp="1581067955714">
+    <state width="1493" height="189" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582710301780" />
+    <state width="1493" height="189" key="GridCell.Tab.0.left" timestamp="1582710301780">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="239" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581067955714" />
-    <state width="1493" height="239" key="GridCell.Tab.1.left" timestamp="1581067955713">
+    <state width="1493" height="189" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582710301780" />
+    <state width="1493" height="189" key="GridCell.Tab.0.right" timestamp="1582710301780">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="239" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581067955713" />
-    <state width="1493" height="239" key="GridCell.Tab.1.right" timestamp="1581067955714">
+    <state width="1493" height="189" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582710301780" />
+    <state width="1493" height="239" key="GridCell.Tab.1.bottom" timestamp="1581074921319">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="239" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581067955714" />
+    <state width="1493" height="239" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581074921319" />
+    <state width="1493" height="239" key="GridCell.Tab.1.center" timestamp="1581074921319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581074921319" />
+    <state width="1493" height="239" key="GridCell.Tab.1.left" timestamp="1581074921318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581074921318" />
+    <state width="1493" height="239" key="GridCell.Tab.1.right" timestamp="1581074921319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581074921319" />
     <state x="270" y="55" key="SettingsEditor" timestamp="1580966273329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580966273329" />
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1581068620686">
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1581069432780">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581068620686" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581069432780" />
   </component>
 </project>
