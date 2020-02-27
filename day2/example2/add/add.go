@@ -2,7 +2,7 @@ package add
 
 import _ "go_dev/day2/example2/test"
 
-func init()  {
+func init() {
 	Name = "hello world"
 	Age = 10
 }

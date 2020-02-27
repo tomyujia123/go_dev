@@ -5,7 +5,7 @@ import (
 	a "go_dev/day2/example2/add"
 )
 
-func init()  {
+func init() {
 	fmt.Println("initialized")
 }
 
